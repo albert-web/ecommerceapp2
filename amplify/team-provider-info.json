@@ -10,6 +10,11 @@
       "StackName": "amplify-ecommerceapp2-dev-95040",
       "StackId": "arn:aws:cloudformation:us-east-2:565130336539:stack/amplify-ecommerceapp2-dev-95040/a42cca10-2da3-11eb-9ff1-06d227970396",
       "AmplifyAppId": "d2eiahnhm2gi6q"
+    },
+    "categories": {
+      "auth": {
+        "ecommerceapp2ff0cc901": {}
+      }
     }
   }
 }
